@@ -1,0 +1,2 @@
+secure-ds.serving-sys.com
+tpc.googlesyndication.com
