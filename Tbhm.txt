@@ -16,3 +16,10 @@ tpc.googlesyndication.com
 s0.2mdn.net
 googleadservices.com
 securepubads.g.doubleclick.net
+ads.yahoo.com
+adservice.google.com
+adservice.google.fr
+aka-cdn-adtechus.com
+apx.moatads.com
+geo.moatads.com
+
