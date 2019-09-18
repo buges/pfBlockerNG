@@ -22,4 +22,4 @@ adservice.google.fr
 aka-cdn-adtechus.com
 apx.moatads.com
 geo.moatads.com
-
+tpc.googlesyndication.com
