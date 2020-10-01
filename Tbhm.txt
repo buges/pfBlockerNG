@@ -30,3 +30,6 @@ secure.adnxs.com
 securepubads.g.doubleclick.net
 static.adsafeprotected.com
 tpc.googlesyndication.com
+www.livejasmin.com
+crt.livejasmin.com
+wysyshypti.pro
