@@ -1,37 +1,36 @@
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 ade.googlesyndication.com
-0.0.0.0 ads.pubmatic.com
-0.0.0.0 ads.yahoo.com
-0.0.0.0 adserver-eu.adtech.advertising.com
-0.0.0.0 adservice.google.com
-0.0.0.0 adservice.google.dk
-0.0.0.0 adservice.google.fr
-0.0.0.0 aka-cdn-adtechus.com
-0.0.0.0 apx.moatads.com
-0.0.0.0 beacon.s-onetag.com
-0.0.0.0 bid.g.doubleclick.net
-0.0.0.0 cdn.adsafeprotected.com
-0.0.0.0 cdn.brcdn.com
-0.0.0.0 cdn.isitelab.io
-0.0.0.0 collector-5110.tvsquared.com
-0.0.0.0 connect.facebook.net
-0.0.0.0 creativecdn.com
-0.0.0.0 d1xfq2052q7thw.cloudfront.com
-0.0.0.0 dt.adsafeprotected.com
-0.0.0.0 fw.adsafeprotected.com
-0.0.0.0 geo.moatads.com
-0.0.0.0 get.s-onetag.com
-0.0.0.0 googleads4.g.doubleclick.net
-0.0.0.0 googleadservices.com
-0.0.0.0 match.adsrvr.org
-0.0.0.0 s0.2mdn.net
-0.0.0.0 secure-ds.serving-sys.com
-0.0.0.0 secure.adnxs.com
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 static.adsafeprotected.com
-0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 www.livejasmin.com
-0.0.0.0 crt.livejasmin.com
-0.0.0.0 wysyshypti.pro
-0.0.0.0 eatcells.com
-0.0.0.0 om.forgeofempires.com
+ad.doubleclick.net
+ade.googlesyndication.com
+ads.pubmatic.com
+ads.yahoo.com
+adserver-eu.adtech.advertising.com
+adservice.google.com
+adservice.google.dk
+adservice.google.fr
+aka-cdn-adtechus.com
+apx.moatads.com
+beacon.s-onetag.com
+bid.g.doubleclick.net
+cdn.adsafeprotected.com
+cdn.brcdn.com
+cdn.isitelab.io
+collector-5110.tvsquared.com
+connect.facebook.net
+creativecdn.com
+d1xfq2052q7thw.cloudfront.com
+dt.adsafeprotected.com
+fw.adsafeprotected.com
+geo.moatads.com
+get.s-onetag.com
+googleads4.g.doubleclick.net
+googleadservices.com
+match.adsrvr.org
+s0.2mdn.net
+secure-ds.serving-sys.com
+secure.adnxs.com
+securepubads.g.doubleclick.net
+static.adsafeprotected.com
+www.livejasmin.com
+crt.livejasmin.com
+wysyshypti.pro
+eatcells.com
+om.forgeofempires.com
