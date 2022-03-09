@@ -55,3 +55,4 @@ books-analytics-events.apple.com
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
 weather-analytics-events.apple.com
+google.co.uk
